@@ -51,3 +51,5 @@ curl -X POST \
 You will see notification
 
 ![notification](notification.png)
+
+> Don't forget to allow or enable notification in browser.
