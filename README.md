@@ -31,6 +31,12 @@ Copy those key to `backend/constants.js` and `frontend/src/App.tsx:12`
 bash start.sh
 ```
 
+To run go based webpush service
+
+```bash
+./start.sh --backend go
+```
+
 ### Test the notification
 
 ```bash
